@@ -1,4 +1,4 @@
-# RL-Fusion: Reinforcement Learning for Operator Fusion in TVM
+# Vibe code mess rn: basically RL to help compiler, idk wanna try and pan this out by throwing myself in the deep end
 
 This project explores the use of reinforcement learning to optimize operator fusion scheduling within the Apache TVM compiler, targeting performance improvements on ARM CPUs (specifically Apple M1 chips).
 
